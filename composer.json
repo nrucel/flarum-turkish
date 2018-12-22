@@ -10,6 +10,7 @@
             "email": "nurullahcelik@yandex.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "flarum/core": "^0.1.0-beta.8"
     },
